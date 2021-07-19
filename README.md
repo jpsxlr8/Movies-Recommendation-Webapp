@@ -27,7 +27,7 @@ Link to "The Movie Cinema" application: https://the-movie-cinema.herokuapp.com/
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go eventhough if you made some typo errors.
 
-Source Code: https://github.com/kishan0725/The-Movie-Cinema
+
 
 
 ## How to get the API key?
