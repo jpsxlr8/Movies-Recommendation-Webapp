@@ -5,7 +5,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
-**Updated version of this application can be found at:** https://github.com/kishan0725/The-Movie-Cinema
+
 
 Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
 
@@ -13,7 +13,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 Check out the live demo: https://mrswsa.herokuapp.com/
 
-Link to youtube demo: https://www.youtube.com/watch?v=dhVePtyECFw
+
 
 # Note
 
